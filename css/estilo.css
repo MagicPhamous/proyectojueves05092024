@@ -1,0 +1,314 @@
+
+.caja1
+{
+    background-color: bisque;
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    top: 200px;
+    right: 100px;
+}
+
+.caja2
+{
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;   
+    position: static;
+    left: 70;
+    bottom: 100px; 
+}
+
+.caja3
+{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    position: sticky;
+    top: 75px;
+    left: 75px;
+}
+
+.caja4
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(139, 0, 58);  
+    position: relative;
+    top: 120px;
+    left: 50px;
+    
+}
+
+.caja5
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.caja6
+{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 10px;
+    transform: rotate(25deg);
+    /*transform: rotateY('30');*/
+    background-color: crimson;
+}
+
+.caja7
+{
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    top: 150px;
+    background-color: lightpink;
+    
+}
+.caja7-1
+{
+    background-color: yellow;
+    width: 50px; height: 100px;
+    position: absolute;
+    left: 30px;
+    
+}
+.caja7-2
+{
+    background-color: green;
+    width: 50px; height: 100px;
+    position: absolute;
+    right: 30px;
+    top: 80px;
+}
+.cabeza
+{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+
+}
+.ojosi
+{
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+    position: absolute;
+    top: 50px;
+    right:  39px;
+
+}
+.ojosd
+{
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+    position: absolute;
+    top: 50px;
+    left:  39px;
+}
+.pupila
+{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    top: 20px;
+    left:  15px;
+}
+.nose
+{
+    width: 35px;
+    height: 35px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 39%;
+}
+.boca
+{
+    width: 85px;
+    height: 5px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.labios
+{
+    background-color: chocolate;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+.earlsI
+{
+    width: 35px;
+    height: 35px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+    position: absolute;
+ 
+    top: 250px;
+    left:  400px
+    
+}
+.earlsD
+{
+    width: 35px;
+    height: 35px;
+    background-color:green;
+    border-radius: 50%;
+    position: absolute;
+    position: absolute;
+ 
+    top: 250px;
+    left:  165px
+}
+.antena
+{
+    width: 35px;
+    height: 35px;
+    background-color:green;
+    border-radius: 50%;
+    position: absolute;
+    top: 135px;
+    left:  260px
+}
+.antenacuello
+{
+    
+    width: 10px;
+    height: 35px;
+    background-color:blue;
+  
+    position: absolute;
+    top: 165px;
+    left:  270px
+}
+
+.cuello
+{
+    width: 39px;
+    height: 49px;
+    background-color: orange;
+    position: absolute;
+    top: 400px;
+    left: 280px;
+}
+.pecho
+{
+
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    position: absolute;
+    top: 450px;
+    left: 200px;
+
+}
+.marca1
+{
+    width: 125px;
+    height: 50px;
+    background-color:green;
+    position: absolute;
+    top: 15px;
+    right:  39px;
+}
+
+.marca2
+{
+    width: 125px;
+    height: 50px;
+    background-color:green;
+    position: absolute;
+    top: 90px;
+    right:  39px;
+}
+.marca3
+{
+    width:110px;
+    height: 49px;
+    background-color: orange;
+    position: absolute;
+    top: 650px;
+    left: 250px;
+}
+.piernas
+{
+    width: 250px;
+    height: 200px;
+    background-color: orange;
+    position: absolute;
+    top: 670px;
+    left: 200px;
+}
+.marcapiernas1
+{
+    width: 50px;
+    height: 125px;
+    background-color:green;
+    position: absolute;
+    top: 15px;;
+    right:  10px;
+}
+.marcapiernas2
+{
+    width: 50px;
+    height: 125px;
+    background-color:green;
+    position: absolute;
+    top: 15px;;
+    right:  95px;
+   
+}
+.marcapiernas3
+{
+    width: 50px;
+    height: 125px;
+    background-color:green;
+    position: absolute;
+    top: 15px;
+    right:  175px;
+}
+.brazoI
+{   
+    width: 25px;
+    height: 175px;
+    background-color: blue;
+    transform: rotate(55deg);
+    position: absolute;
+    top: 430px;
+    left:  450px
+
+}
+.brazoD
+{
+    width: 25px;
+    height: 175px;
+    background-color: blue;
+    transform: rotate(105deg);
+    position: absolute;
+ 
+    top: 450px;
+    left:  100px
+}
+.cuerpo
+{
+    height: 5000px;
+    width:  5000px;
+    background-color: white;
+}
